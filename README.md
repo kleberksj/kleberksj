@@ -1,16 +1,13 @@
-### Hi there 👋
+Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualização de dados. Estou constantemente explorando novas técnicas e ferramentas para obter insights valiosos a partir de conjuntos de dados complexos.
 
-<!--
-**kleberksj/kleberksj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Principais Áreas de Interesse
 
-Here are some ideas to get you started:
+- Análise de dados
+- Aprendizado de Máquina
+- Visualização de dados
+- Processamento de linguagem natural
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais Ferramentas e Tecnologias
+
+- Linguagens de programação: Python, R
+- Bib
